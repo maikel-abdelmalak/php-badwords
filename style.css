@@ -1,0 +1,17 @@
+body{
+    background-color: #ddd;
+}
+
+div{
+    width: 60%;
+    margin: 150px auto;
+}
+
+p{
+    font-weight: bold;
+    font-size: 30px;
+}
+span{
+    margin-top: 50px;
+    font-style: italic;
+}
